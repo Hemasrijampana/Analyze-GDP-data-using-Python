@@ -1,1 +1,3 @@
 # Analyze-GDP-data-using-Python
+
+The provided dataset offers essential information on nations worldwide, encompassing various socio-economic indicators such as population, GDP per capita, education rates, phone density, agricultural and industrial activities, birth and death rates, among others. Through Python analysis and model training, a predictive model has been developed to dynamically forecast GDP per capita based on these socio-economic factors. This dataset serves as a valuable resource for researchers, policymakers, and analysts seeking insights into global socio-economic trends, facilitating informed decision-making and nuanced analysis of the interplay between different variables shaping individual countries.
